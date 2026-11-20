@@ -1,0 +1,8 @@
+{
+  "listen": "127.0.0.1:7100",
+  "data_dir": "./data",
+  "token_secret": "换成一段随机字符串",
+  "public_base": "http://127.0.0.1:7100",
+  "user": "admin",
+  "pass": "改成你的密码"
+}

@@ -1,0 +1,7 @@
+config.json
+data/
+*.zip
+.DS_Store
+build/
+DerivedData/
+node_modules/

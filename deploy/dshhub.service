@@ -1,0 +1,12 @@
+[Unit]
+Description=Remote Harness personal server
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/dshhub
+ExecStart=/opt/dshhub/dshhub
+Restart=always
+RestartSec=2
+
+[Install]
+WantedBy=multi-user.target
