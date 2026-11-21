@@ -1,21 +1,23 @@
-MIT License
+远程 Harness 个人版 · 非商业许可 1.0
+Copyright (c) 2026 521toy. All rights reserved.
 
-Copyright (c) 2026 521toy
+一、允许
+1. 个人出于自用目的，复制、安装、运行、修改本软件；
+2. 在自己拥有或控制的服务器上部署，供本人及家庭成员使用；
+3. 为个人自用目的制作备份、合并或衍生版本。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+二、禁止（未经书面授权）
+1. 任何商业使用，包括但不限于：对外提供收费或免费服务、SaaS/托管服务、
+   随产品捆绑销售、企业内部生产经营使用；
+2. 转售、出租、再许可、分发本软件或其修改版；
+3. 移除或隐藏版权声明、许可声明。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+三、商业授权
+商业使用需取得书面授权（付费）。授权范围、账号/设备规模与费用以双方书面约定为准。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+四、免责
+本软件按“现状”提供，不附带任何明示或默示担保。因使用本软件造成的任何损失，
+作者不承担责任。
+
+五、终止
+违反本许可即自动终止授权，须立即停止使用并删除所有副本。
